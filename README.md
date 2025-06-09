@@ -1,6 +1,7 @@
 # HealthRecordCleaner
 
-A reproducible pipeline for cleaning, standardizing, and visualizing healthcare patient records. Built for the NORP Data Integration theme, this project demonstrates how to handle missing values, standardize medical condition names using a mini-ontology, and visualize data distributions before and after cleaning.
+
+A repeatable process for cleanup, normalization and visualization of patient records from healthcare. This follows the NORP Data Integration theme, and the main point of the analysis below is to show how to treat missing values, how to standardize medical condition names into a mini-ontology, and visualising data distributions before and after cleaning. 
 
 ## Project Structure
 
@@ -31,7 +32,7 @@ HealthRecordCleaner/
    python3 src/visualizer.py
    This will generate before/after bar plots of condition counts.
 
-3. **Explore in Jupyter Notebook:**
+3 **Explore in Jupyter Notebook:**
    Open `notebook/analysis.ipynb` to see the full pipeline, outputs, and visualizations interactively.
 
 ## About
