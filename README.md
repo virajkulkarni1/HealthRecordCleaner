@@ -35,10 +35,10 @@ HealthRecordCleaner/
    Open `notebook/analysis.ipynb` to see the full pipeline, outputs, and visualizations interactively.
 
 ## About
-- Cleans missing values (e.g., age, gender, condition)
+- Cleans missing values 
 - Standardizes condition names using a JSON ontology
 - Visualizes distributions before and after cleaning
-- Ready for ML or LLM prompt generation
+- Ready for ML or LLM prompt generation along with next steps of this project
 
 
 NORP Project - Viraj Kulkarni 
