@@ -1,0 +1,8 @@
+{
+    "COVID-19": ["covid", "covid-19", "COVID", "Covid19", "Covid-19"],
+    "Diabetes": ["diabetes", "Diabetes Mellitus", "Type 2 Diabetes"],
+    "Lung Disease": ["COPD", "Chronic Obstructive Pulmonary Disease", "Lung Disease", "Asthma"],
+    "Hypertension": ["High Blood Pressure", "hypertension", "Hypertension"],
+    "Healthy": ["healthy", "Healthy", "None", "No Disease"]
+}
+

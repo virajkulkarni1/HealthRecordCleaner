@@ -1,0 +1,101 @@
+patient_id,age,gender,condition
+1,30,Other,COVID-19
+2,69,,Healthy
+3,41,Male,Missing
+4,78,Male,Healthy
+5,60,Other,covid
+6,46,Male,COVID19
+7,64,,Covid-19
+8,46,Other,COPD
+9,46,Male,COVID-19
+10,55,Male,Diabetes
+11,22,Other,
+12,38,Other,Lung Disease
+13,65,Other,Diabetes Mellitus
+14,74,Other,
+15,46,Male,COVID-19
+16,46,Female,Chronic Obstructive Pulmonary Disease
+17,83,Male,Healthy
+18,46,Other,healthy
+19,58,Female,Healthy
+20,27,Female,Lung Disease
+21,42,Female,COPD
+22,46,Male,Diabetes
+23,23,Female,
+24,42,Female,
+25,44,Other,
+26,28,Male,COVID
+27,46,Female,Healthy
+28,49,Other,Lung Disease
+29,46,Male,COVID-19
+30,39,Male,High Blood Pressure
+31,52,Female,Asthma
+32,37,Other,No Disease
+33,50,Male,Diabetes
+34,60,Female,Type 2 Diabetes
+35,55,Other,Healthy
+36,48,Male,Diabetes
+37,62,Female,Hypertension
+38,70,Other,Healthy
+39,33,Male,Diabetes Mellitus
+40,29,Female,Asthma
+41,54,Other,Healthy
+42,47,Male,Healthy
+43,51,Female,High Blood Pressure
+44,36,Other,Healthy
+45,59,Male,No Disease
+46,61,Female,Diabetes
+47,45,Other,Healthy
+48,53,Male,Diabetes
+49,40,Female,Healthy
+50,38,Other,Healthy
+51,57,Male,Diabetes
+52,49,Female,Healthy
+53,63,Other,Healthy
+54,35,Male,Healthy
+55,56,Female,Diabetes
+56,60,Other,Healthy
+57,42,Male,Healthy
+58,44,Female,Healthy
+59,39,Other,Healthy
+60,41,Male,Healthy
+61,50,Female,Healthy
+62,47,Other,Healthy
+63,53,Male,Healthy
+64,38,Female,Healthy
+65,55,Other,Healthy
+66,60,Male,Healthy
+67,46,Female,Healthy
+68,49,Other,Healthy
+69,40,Male,Healthy
+70,39,Female,Healthy
+71,52,Other,Healthy
+72,37,Male,Healthy
+73,50,Female,Healthy
+74,60,Other,Healthy
+75,55,Male,Healthy
+76,48,Female,Healthy
+77,62,Other,Healthy
+78,70,Male,Healthy
+79,33,Female,Healthy
+80,29,Other,Healthy
+81,54,Male,Healthy
+82,47,Female,Healthy
+83,51,Other,Healthy
+84,36,Male,Healthy
+85,59,Female,Healthy
+86,61,Other,Healthy
+87,45,Male,Healthy
+88,53,Female,Healthy
+89,40,Other,Healthy
+90,38,Male,Healthy
+91,57,Female,Healthy
+92,49,Other,Healthy
+93,63,Male,Healthy
+94,35,Female,Healthy
+95,56,Other,Healthy
+96,60,Male,Healthy
+97,46,Female,Healthy
+98,49,Other,Healthy
+99,40,Male,Healthy
+100,39,Female,Healthy
