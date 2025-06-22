@@ -35,6 +35,12 @@ HealthRecordCleaner/
 3 **Explore in Jupyter Notebook:**
    Open `notebook/analysis.ipynb` to see the full pipeline, outputs, and visualizations interactively.
 
+4. **Run the validator:**
+   ```bash
+   python src/validator.py
+   ```
+   This will check the cleaned data for quality issues and generate a report at `data/validation_report.txt`.
+
 ## About
 - Cleans missing values 
 - Standardizes condition names using a JSON ontology

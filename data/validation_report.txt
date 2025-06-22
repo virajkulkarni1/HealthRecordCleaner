@@ -1,0 +1,21 @@
+Validation Report
+=================
+
+Row 4: Patient ID 3
+- Missing condition
+
+Row 12: Patient ID 11
+- Missing condition
+
+Row 15: Patient ID 14
+- Missing condition
+
+Row 24: Patient ID 23
+- Missing condition
+
+Row 25: Patient ID 24
+- Missing condition
+
+Row 26: Patient ID 25
+- Missing condition
+
