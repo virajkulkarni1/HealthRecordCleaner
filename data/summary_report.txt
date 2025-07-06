@@ -1,0 +1,13 @@
+Average Age: 48.62
+
+Gender Distribution:
+  Other: 35
+  Male: 34
+  Female: 31
+
+Top 5 Most Common Conditions:
+  Healthy: 64
+  Diabetes: 11
+  COVID-19: 8
+  Lung Disease: 8
+  Missing: 6
